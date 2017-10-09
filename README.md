@@ -1,5 +1,5 @@
 # 容器
-## vector（#include <vector>）
+### vector
 vector相当于动态数组，无需提前声明大小，支持随机访问，可以通过下标进行访问。
 ```
 #include <iostream>
