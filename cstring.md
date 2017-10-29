@@ -1,0 +1,1 @@
+cstring库是string.h库的扩充
