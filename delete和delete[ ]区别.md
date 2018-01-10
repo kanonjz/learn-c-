@@ -48,3 +48,5 @@ int* a = new int[4];
 delete a; //delete[] a 也是可以的
 ```
 
+### 注意
+在使用delete之后，并不会将指针置为null或nullptr，所以一般还要手动将指针置空。
