@@ -30,4 +30,4 @@ c = (a>b, a+b); // 运行后c值为8，因为括号的优先级高于赋值运�
 ```
 
 ### 指向函数的指针
-[参考](https://github.com/kanonjz/learn-cpp/blob/master/%E6%8C%87%E5%90%91%E5%87%BD%E6%95%B0%E7%9A%84%E6%8C%87%E9%92%88%E5%92%8C%E5%BC%95%E7%94%A8.md)
+[笔记](https://github.com/kanonjz/learn-cpp/blob/master/%E6%8C%87%E5%90%91%E5%87%BD%E6%95%B0%E7%9A%84%E6%8C%87%E9%92%88%E5%92%8C%E5%BC%95%E7%94%A8.md)
